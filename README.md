@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Olá 👋, Sou Álef Monteiro</h1>
+<h3 align="center">Seja bem-vindo ao meu perfil!</h3>
 
-<!--
-**alef-monteiro/alef-monteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente, Desenvolvedor **Front-end**
+- 🌱 Estudando atualmente **JavaScript pela Alura**
+- 📫 Contate-me **monteiro.alef0@gmail.com**
 
-Here are some ideas to get you started:
+## DASHBOARD
+<div style="display=flex; align-items=center;">
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&count_private=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&layout=compact' />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## LINGUAGENS
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+</div>
+  
