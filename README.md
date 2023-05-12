@@ -4,10 +4,8 @@
 ## 
 
 <div style="display=flex; align-items=center;">
-<img align="center"  width=400 src='https://github-readme-stats.vercel.app/api?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&count_private=true' />
-<img  align="left" width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&layout=compact' />
-</div>
-
+<img align="center"  width=400 src='https://github-readme-stats.vercel.app/api?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&
+                                    
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -17,5 +15,4 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
- 
 
