@@ -5,7 +5,7 @@
 
 <div style="display=flex; align-items=center;">
 <img align="center"  width=400 src='https://github-readme-stats.vercel.app/api?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&count_private=true' />
-<img  align="center" width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&layout=compact' />
+<img  align="left" width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&layout=compact' />
 </div>
 
 ## 🛠 &nbsp;Tech Stack
