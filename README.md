@@ -1,6 +1,4 @@
-<h1 align="center">Olá 👋, Sou Álef Monteiro</h1>
-<h3 align="center">Seja bem-vindo ao meu perfil!</h3>
-
+<h1 align="left">Olá 👋, Sou Álef Monteiro</h1>
 ## 📊 &nbsp; Analytics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alef-monteiro&show_icons=true&theme=react)
