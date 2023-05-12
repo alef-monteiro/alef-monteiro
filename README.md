@@ -9,8 +9,12 @@
 <div style="display=flex; align-items=center;">
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&count_private=true' />
 <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&layout=compact' />
+  
+  ![Snake animation](https://github.com/alef-monteiro/alef-monteiro/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
-
+  
+  
 ## LINGUAGENS
 
 <div style="display: inline_block"><br>
