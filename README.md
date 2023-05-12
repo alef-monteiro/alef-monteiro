@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Sou Álef Monteiro</h1>
 <h3 align="center">Seja bem-vindo ao meu perfil!</h3>
 
-## DASHBOARD
+## 
 
 <div style="display=flex; align-items=center;">
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=alef-monteiro&theme=react&show_icons=true&hide_border=false&count_private=true' />
@@ -18,4 +18,4 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
-![Snake animation](https://github.com/alef-monteiro/alef-monteiro/blob/output/github-contribution-grid-snake.svg)
+
