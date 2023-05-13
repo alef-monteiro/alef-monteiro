@@ -28,5 +28,5 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web development
-- 📫 How to reach me: romulolira1@gmail.com
+- 📫 How to reach me: monteiro.alef0@gmail.com
 - 😄 Pronouns: he/him
