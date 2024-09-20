@@ -1,14 +1,13 @@
 <h1 align="left">Olá 👋, Sou Álef Monteiro</h1>
 <div align="left">
        <img height="100" src="https://i.kym-cdn.com/photos/images/original/000/422/203/dbc.gif" />   
-      <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMThnZGQ2bjVtdnZuNXBvbHp2bGk5NmR4MTRhczRyOWF6bmNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp"/>
-      <img height="100" src="https://i.kym-cdn.com/photos/images/original/000/422/203/dbc.gif" />     
-
+       <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMThnZGQ2bjVtdnZuNXBvbHp2bGk5NmR4MTRhczRyOWF6bmNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp"/>
+       <img height="100" src="https://i.kym-cdn.com/photos/images/original/000/422/203/dbc.gif" />     
 </div>
 
-<div  align="left" style="border: none;">
+<div align="left" style="border: none;">
    <h2>📊 &nbsp; Analytics </h2>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=react" alt="Top Langs" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&hide_progress=true&theme=react" alt="Top Langs" />
 </div>
 
 ## 📩 Contacts 
@@ -19,9 +18,19 @@
 </a>
 </p>
 
-####
+## 🚀 &nbsp; Skills
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
+
+## 📝 &nbsp; More About Me
 
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me: monteiro.alef0@gmail.com
