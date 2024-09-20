@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋, Sou Álef Monteiro</h1>
 
-## 📊 &nbsp; Analytics
+<br> 📊 &nbsp; Analytics
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=react)
 
