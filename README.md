@@ -1,6 +1,8 @@
 <h1 align="left">Olá 👋, Sou Álef Monteiro</h1>
 <div align="left">
-      <img height="250" src="https://raw.githubusercontent.com/alef-monteiro/alef-monteiro/refs/heads/main/32f644ae8c49bc32eb9a38c5046e855f_original.webp" />
+      <img height="100" src="https://i.kym-cdn.com/photos/images/original/000/422/203/dbc.gif" />
+      <img height="100" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc29lMThnZGQ2bjVtdnZuNXBvbHp2bGk5NmR4MTRhczRyOWF6bmNhMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.webp"/>
+      
 
 </div>
 
