@@ -1,6 +1,6 @@
 <h1 align="left">Olá 👋, Sou Álef Monteiro</h1>
 <div align="left">
-      <img height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+      <img height="250" src="https://raw.githubusercontent.com/alef-monteiro/alef-monteiro/refs/heads/main/32f644ae8c49bc32eb9a38c5046e855f_original.webp" />
 
 </div>
 
