@@ -4,10 +4,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alef-monteiro&show_icons=true&theme=react)
  <p align="left">
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
                                     
 ## 🛠 &nbsp;Tech Stack
 
-https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
 
 ## 📩 Contacts 
 
