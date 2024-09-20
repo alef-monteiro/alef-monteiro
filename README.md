@@ -1,8 +1,18 @@
 <h1 align="left">Olá 👋, Sou Álef Monteiro</h1>
 
-<br> 📊 &nbsp; Analytics
+<table>
+  <tr>
+   <br> 
+   <h2>📊 &nbsp; Analytics </h2>
+       <td align="left">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=react" alt="Top Langs" />
+    </td>
+    <td align="left">
+      <img height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+    </td>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=react)
+  </tr>
+</table>
 
 ## 📩 Contacts 
 
