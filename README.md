@@ -8,15 +8,12 @@
 <div align="left" style="border: none;">
    <h2>📊 &nbsp; Analytics </h2>
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alef-monteiro&theme=react-dark&hide_border=true&line=61dafb&area=true&radius=0&area_color=61dafb" alt="GitHub Activity Graph" />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&bg_color=161B22&text_color=ffffff)
-
-
-
-</div>
-
+<a href="https://github.com/alef-monteiro">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=alef-monteiro&bg_color=161B22&text_color=ffffff" style="border-radius: 10px;"/>
+</a>
+<a href="https://github.com/alef-monteiro/convoychat">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=alef-monteiro&layout=compact&langs_count=8&card_width=320&bg_color=161B22&text_color=ffffff" style="border-radius: 10px;"/>
+</a>
 
 
 </div>
