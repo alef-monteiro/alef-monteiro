@@ -7,11 +7,19 @@
 
 <div align="left" style="border: none;">
    <h2>📊 &nbsp; Analytics </h2>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&hide_progress=true&theme=react" alt="Top Langs" />
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=alef-monteiro&theme=react-dark&hide_border=true&line=61dafb&area=true&radius=0&area_color=61dafb" alt="GitHub Activity Graph" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&bg_color=161B22&text_color=ffffff)
+
+
+
 </div>
 
-![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=ALEF-MONTEIRO&radius=16&theme=tokyo-night&area=true&order=10)
 
+
+</div>
 
 ## 📩 Contacts 
 
