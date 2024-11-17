@@ -10,6 +10,8 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alef-monteiro&hide_progress=true&theme=react" alt="Top Langs" />
 </div>
 
+<img src="https://camo.githubusercontent.com/ba21fc3e805998144b8910650f25b24e934c6162d95dfd28cb37e11874e9f6a3/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d4c45584d4f52414553267261646975733d3136267468656d653d746f6b796f2d6e6967687426617265613d74727565266f726465723d3130" height="276" alt="activity-graph graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=alef-monteiro&amp;radius=16&amp;theme=tokyo-night&amp;area=true&amp;order=10" style="max-width: 100%;">
+
 ## 📩 Contacts 
 
 <p align="left" style="background:yellow">
